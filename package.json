@@ -1,0 +1,26 @@
+{
+  "name": "my-scss-config",
+  "version": "1.0.0",
+  "description": "my-scss-config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmaqingbo/scss-config.git"
+  },
+  "keywords": [
+    "scss"
+  ],
+  "author": "wmaqingbo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wmaqingbo/scss-config/issues"
+  },
+  "homepage": "https://github.com/wmaqingbo/scss-config#readme",
+  "devDependencies": {
+    "stylelint": "^9.2.0",
+    "stylelint-config-standard": "^18.2.0"
+  }
+}
